@@ -1,2 +1,2 @@
-print("Original change")
+print("Conflicting change")
 # Title
